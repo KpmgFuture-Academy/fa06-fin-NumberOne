@@ -1,4 +1,4 @@
-# Tem_fa00-fin-LIVABLE
+# Tem_fa06-fin-NumberOne
 
 삼정 Future Academy 최종 프로젝트  
 대화형 AI 에이전트 기반 숙소 추천 시스템
